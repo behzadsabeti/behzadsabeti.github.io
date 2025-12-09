@@ -3,6 +3,22 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+Behzad Sabeti is an Artificial Intelligence specialist and software engineer currently pursuing an MSc in Artificial Intelligence at Ferdowsi University of Mashhad (GPA 18.31/20). He holds a B.A. in Computer Engineering from the University of Birjand. Passionate about machine learning and backend development, Behzad has practical experience building recommender systems, web crawlers, and computer vision applications using Python, PyTorch, and FastAPI.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+## Education
+- MSc in Artificial Intelligence, Ferdowsi University of Mashhad (in progress)
+- B.A. in Computer Engineering, University of Birjand
+
+## Technical Stack
+- Python, JavaScript, C++
+- PyTorch, FastAPI, Django
+
+## Projects
+- Movie Recommender System (SVD, FastAPI backend)
+- Letterboxd Web Crawler
+- OpenCV Barcode Detector
+
+## Certifications
+- Machine Learning Specialization (Stanford/DeepLearning.AI)
+- Data Scientist with Python
+- Django for Everybody
